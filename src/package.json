@@ -1,0 +1,14 @@
+{
+  "name": "sandpack-project",
+  "main": "/index.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.0",
+    "@react-three/drei": "9.11.3",
+    "@react-three/fiber": "8.0.20",
+    "lamina": "1.1.20",
+    "three": "0.142.0"
+  },
+  "devDependencies": {}
+}
